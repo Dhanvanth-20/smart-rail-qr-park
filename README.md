@@ -36,6 +36,7 @@ A smart parking management system with QR code generation for railway stations.
 
 2. **Install frontend dependencies**
    ```sh
+   cd frontend
    npm install
    ```
 
@@ -64,6 +65,7 @@ The backend server will run at: [http://localhost:3020](http://localhost:3020)
 Start the frontend server (in another terminal):
 
 ```sh
+cd frontend
 npm run dev
 ```
 
@@ -141,4 +143,3 @@ smart-rail-qr-park/
 ## License
 
 This project is licensed under the MIT License.
-# Smart_Parking
